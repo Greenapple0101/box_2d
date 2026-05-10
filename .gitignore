@@ -1,0 +1,11 @@
+raylib-master/
+raylib-master.zip
+**/raylib-master/
+
+**/_bin/
+**/_build/
+**/obj/
+
+.DS_Store
+*.o
+*.a
