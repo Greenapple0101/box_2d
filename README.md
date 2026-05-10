@@ -4,6 +4,10 @@
 
 게임 코드: [`mackathon_qualifier/`](mackathon_qualifier/)
 
+## 데모
+
+![Bouncy Climb 플레이 영상 (GIF)](docs/mackathon_demo.gif)
+
 ## 빌드 (macOS)
 
 저장소 루트에서:

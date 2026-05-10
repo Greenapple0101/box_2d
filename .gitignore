@@ -9,3 +9,6 @@ raylib-master.zip
 .DS_Store
 *.o
 *.a
+
+# 로컬 화면 녹화 (용량 큼; README 데모는 GIF로 관리)
+*.mov
